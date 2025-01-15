@@ -1,7 +1,7 @@
 # Array-Calculator
 <h3>Project Description</h3>
   <ol>
-    <li>This program is an assembly-based implementation that performs various operations on matrices and arrays. It demonstrates a deep understanding of low-level programming concepts and practical expertise in algorithmic problem-solving using MIPS assembly language. The project includes features such as matrix mulitplication, matrix concatenation, constatn multiplication, value replacement, trace calculation, transposition, and matrix printing.</li>
+    <li>This program is an assembly-based implementation that performs various operations on matrices and arrays. It demonstrates a deep understanding of low-level programming concepts and practical expertise in algorithmic problem-solving using MIPS assembly language. The project includes features such as matrix mulitplication, matrix concatenation, constant multiplication, value replacement, trace calculation, transposition, and matrix printing.</li>
   </ol>
 
 <h3>Instructions</h3>
