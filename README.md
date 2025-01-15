@@ -7,7 +7,7 @@
 <h3>Instructions</h3>
   <ol>
   <li>Download and install a MIPS simulator, I used QtSpim</li>
-  <li>Open the <b>Array-Calculator.txt</b> file in your MIPS simulator</li>
+  <li>Open the <b>Array-Calculator.asm</b> file in your MIPS simulator</li>
   <li>Assemble the code</li>
   <li>Run the program in the simulator and follow the console outputs for the results</li>
   </ol>
